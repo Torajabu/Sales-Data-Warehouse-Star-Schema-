@@ -1,6 +1,6 @@
 # Sales Data Warehouse (Star Schema)
 
-A simple SQL-based ETL pipeline that transforms a flat `Orders` table into a dimensional **star schema** data warehouse — staging → transformation → dimensions → fact table.
+A simple SQL-based ETL pipeline that transforms a flat `Orders` table into a dimensional **star schema** data warehouse — staging → transformation → dimensions → fact table. ( https://drive.google.com/file/d/14v2oHfbGUPcju18IQOVqf6_n3FjKgqoX/view?usp=drive_link )
 
 ## Architecture
 ![Data Flow Diagram](https://raw.githubusercontent.com/Torajabu/Sales-Data-Warehouse-Star-Schema-/main/arch.svg)
