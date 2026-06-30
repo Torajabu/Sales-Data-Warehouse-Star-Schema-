@@ -3,6 +3,7 @@
 A simple SQL-based ETL pipeline that transforms a flat `Orders` table into a dimensional **star schema** data warehouse — staging → transformation → dimensions → fact table.
 
 ## Architecture
+![Data Flow Diagram](https://raw.githubusercontent.com/Torajabu/Sales-Data-Warehouse-Star-Schema-/main/arch.svg)
 
 ```
 sales_8am.Orders
